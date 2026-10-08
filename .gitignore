@@ -1,0 +1,15 @@
+# Android Studio & IDE
+*.iml
+.gradle
+/.idea/
+.DS_Store
+
+# Local Configuration & Security (API Keys)
+/local.properties
+
+# Build & Generated Files
+/build
+**/build
+/captures
+.externalNativeBuild
+.cxx

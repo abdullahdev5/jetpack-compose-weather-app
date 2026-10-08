@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Weather UI</string>
+    <string name="degree_sign">°</string>
+    <string name="google_maps_api_key">GOOGLE_MAPS_API_KEY</string>
+    <string name="location_permission_error_msg">Weather requires Location Permission to Provide You Weather information.</string>
+    <string name="location_request_error_msg">Please Turn on the Device Location for Precise Weather.</string>
+</resources>
